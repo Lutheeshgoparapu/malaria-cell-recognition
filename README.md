@@ -215,9 +215,9 @@ else:
 ### New Sample Data Prediction
 ![331595387-6e2ab739-fbec-4944-a0e7-c729e22ed388](https://github.com/Lutheeshgoparapu/malaria-cell-recognition/assets/94154531/d318690b-7de7-4e18-8abc-7756cedcfd65)
 
-## Result:
+## RESULT:
 The model's performance is evaluated through training and testing, and it shows potential for assisting healthcare professionals in diagnosing malaria more efficiently and accurately.
 
 Include your sample cell image input and output of your model.
 
-## RESULT
+
