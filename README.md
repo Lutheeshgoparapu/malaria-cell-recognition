@@ -218,6 +218,6 @@ else:
 ## RESULT:
 The model's performance is evaluated through training and testing, and it shows potential for assisting healthcare professionals in diagnosing malaria more efficiently and accurately.
 
-Include your sample cell image input and output of your model.
+
 
 
